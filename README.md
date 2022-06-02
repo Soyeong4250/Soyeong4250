@@ -1,4 +1,4 @@
-<div class="container" align=center>
+<div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0583D2&height=300&section=header&text=Soyeong's%20GitHub&desc=welcome🖐&descAlign=50&descAlignY=30&fontSize=80&fontColor=ffffff" />
 </div>
 
@@ -51,12 +51,15 @@
 <br />
 <br />
   <h3> ✨ Archiving ✨ </h3>
-</div>
+  
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoyeong4250%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=true"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fichijeochi.tistory.com%2Fhit-counter&count_bg=%23FF7D00&title_bg=%23FF7D00&icon=micro-dot-blog.svg&icon_color=%23FFFFFF&title=TiStory&edge_flat=true"/></a>
 
+  
  ![Soyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soyeong4250&show_icons=true&theme=tokyonight)
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=th4250)](https://solved.ac/th4250)
 
-<div align=center>
+
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0583D2&height=200&section=footer" />
 </div>
